@@ -64,7 +64,7 @@ Aller sur les liens Heroku suivants
 
 Movies:
 
-> https://shielded-savannah-98236.herokuapp.com
+> https://mighty-mountain-48122.herokuapp.com/
 
 Gossips:
 
